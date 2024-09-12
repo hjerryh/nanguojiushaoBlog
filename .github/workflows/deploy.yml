@@ -21,11 +21,11 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        run: npx pnpm install
+        run: npm install
 
       - name: Install Hexo Git Deployer
         run: |
-          npx pnpm install hexo-deployer-git --save
+          npm install hexo-deployer-git --save
           npm install hexo-cli -g
 
       - name: Clean and Generate Static Files
