@@ -8,4 +8,4 @@ tags:
 看起来比较正常
 
 试试图片
-{% image.jpg  this is an example image %}
+{% image.png  this is an example image %}
