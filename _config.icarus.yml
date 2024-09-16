@@ -105,11 +105,11 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
+        首页: /
         Archives: /archives
         Categories: /categories
-        Tags: /tags
-        About: /about
+        标签: /tags
+        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -300,7 +300,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: 标签
+        type: tags
         # How to order tags. For example 'name' to order by name in ascending order, and '-length' to order by number of posts in each tags in descending order
         order_by: name
         # Amount of tags to show. Will show all if not set.
