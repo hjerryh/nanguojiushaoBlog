@@ -12,10 +12,10 @@ head:
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
         # Name of the web application (default to the site title)
-        name: 
+        name: 南国旧少
         # The displayed name of the web application
         # when there is not enough space to display full name
-        short_name: 
+        short_name: 南国旧少
         # The start URL of the web application
         start_url: 
         # The default theme color for the application
@@ -106,19 +106,19 @@ navbar:
     # Navigation menu items
     menu:
         首页: /
-        Archives: /archives
-        Categories: /categories
+        归档: /archives
+        分类: /categories
         标签: /tags
         关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/hjerryh/nanguojiushaoBlog
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2019
+    copyright: 用❤️发电
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -219,7 +219,7 @@ sidebar:
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
