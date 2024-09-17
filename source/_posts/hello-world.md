@@ -1,7 +1,7 @@
 ---
 title: Hello World
-cover: /test/image.png
-thumbnail: /test/image.png
+cover: ./test/image.png
+thumbnail: ./test/image.png
 date: 2024-09-13 02:05:09
 updated: 2024-09-13 02:05:09
 ---
