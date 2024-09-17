@@ -240,7 +240,7 @@ widgets:
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
-        # URL or path for the follow button
+        # URL or path for the follow关注 button
         follow_link: https://github.com/hjerryh/nanguojiushaoBlog
         # Links to be shown on the bottom of the profile widget
         social_links:
